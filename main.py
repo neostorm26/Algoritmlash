@@ -1,2 +1,3 @@
-a,b = map(int,input().split())
-print(a + b)
+arrey = list(map(int,input().split()))
+print(sum(arrey))
+
